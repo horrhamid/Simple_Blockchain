@@ -1,0 +1,17 @@
+{
+  "blockNumber": 2,
+   "User1": {
+      "Information": {
+         "Sender": "5LWVR2K5NOFARAR5G2JD4HYLR64YS7N6R3D6TAUZYPTK6WOGQDXSUKVXKI",
+         "Receiver": "Z7QJ26HVKLIUUAGK7P4ZWW5NHM226MWE2CGYHWLIZ5MATASRGD7OKDN4SA",
+         "Amount": 210
+              }
+          },
+   "User2": {
+      "Information": {
+         "Sender": "4UPVWBYRO5HZOGNPAUHHUJLRT5RVWKOZ2RW2KQKDMXYXXBO2GQEFC2HYVE",
+         "Receiver": "Z7QJ26HVKLIUUAGK7P4ZWW5NHM226MWE2CGYHWLIZ5MATASRGD7OKDN4SA",
+         "Amount": 80
+              }
+          }
+}
